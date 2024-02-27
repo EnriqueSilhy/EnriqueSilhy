@@ -1,4 +1,4 @@
-- 📢 As a Gamedev/ Rev Engineer And Someone Who Really Understands Computers, Trully I Tell You There Is NOTHING More Complex In This World Than The Bible, Not a Quantum Computer Nor The Atomic Bomb, Nothing!
+- 📢 As a Gamedev/ Rev Engineer And Someone Who Really Understands Computers, Trully I Tell You There Is NOTHING More Complex In This World Than The Bible, Not a Quantum Computers Nor The Atomic Bomb, Nothing!
 - 👋 The Name Is, @EnriqueSilhy.
 - 👀 I’m interested in C++, Game/App Security, Intermidiate/Advance Reverse Engineering and SecOps and Christianity.
 - 🌱 I’m never gonna stop learning.
